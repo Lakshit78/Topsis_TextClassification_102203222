@@ -38,7 +38,7 @@ The models are ranked based on the following metrics:
    - Models are ranked based on their scores.
 
 ## Results
-The final **TOPSIS scores** and rankings are stored in `topsis_results_updated.csv`. Below is the ranking visualization:
+The final **TOPSIS scores** and rankings are stored in `topsis_results.csv`. Below is the ranking visualization:
 
 ![TOPSIS Ranking](topsis_ranking.png)
 
